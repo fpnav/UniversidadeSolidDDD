@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="AlunoTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProfessorTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DOMAIN\DOMAIN.csproj">
